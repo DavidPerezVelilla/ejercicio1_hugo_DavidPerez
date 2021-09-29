@@ -1,4 +1,4 @@
-baseURL = "http://localhost/MAÑANAS/hugo/proyectos/DavidPerezVelillaFotografia"
+baseURL = "http://localhost/ejercicio1_hugo_DavidPerez"
 title   = "David Pérez Velilla"
 languageCode = "es-Es"
 theme = "hello-friend-ng"
