@@ -1,4 +1,4 @@
-baseURL = "https://dpvfotografia.com"
+baseURL = "https://localhost/ejercicio1_hugo_DavidPerez"
 title   = "David Pérez Velilla"
 languageCode = "es-Es"
 theme = "hello-friend-ng"
