@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+    <style>
+        p{
+           padding: 100px; 
+           text-align: "justify";
+        }
+    </style>        
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+
+    {{ block "body" . }}
+        <body>
+          
+    {{ end }}
+    
+        <div class="container">
+            {{ partial "header.html" . }}
+
+            <div class="content">
+                {{ block "main" . }}{{ .Content }}{{ end }}
+                <img src="/img/yo.png" width="400" height="480" />
+                <p text-align="center"><b>28-06-1992. Zaragoza</b><br>
+                    Nací en el zaragozano barrio de la Jota, donde estudie en el C.P. La Jota y en el I.E.S. Pilar Lorengar.<br>
+                    A los 16 años fue cuando empezó mi interes por la fotografía, aunque por aquel entonces solo contaba con mi viejo telefono movil. No fue hasta los 19 años cuando pude adquirir a mi confiable compañera, mi Canon 600D que tanto a vivido a mi lado.
+                    Un año despues decidí comenzar mis estudios en el CPIFP Los Enlaces, concretamente el grado superior en Imagen. <br><br>Tras dos años aprendiendo gracias a grandisimos profesores,
+                    comencé las prácticas en el que sería mi primer trabajo, el estudio Almozara Fotografía. Allí aprendí fotografía gastronomica y de producto, y no solo eso, si no tambien introduje la cabeza en el mundo del video, tanto de camarógrafo como editor. 
+                    Tras varios años en la empresa decidí que era el momento de nuevas experiencias y me traslade a vivir a Italia durante un año, concretamente a Roma.<br><br> En Italia fue donde descubri mi verdadera pasion que es la fotografia urbana, y donde realicé mi mayor
+                    proyecto hasta la fecha. Por lo tanto, me defino como un fotógrafo urbano, al que le gusta captar una fotografía del dia a dia, muy natural, contrastadas y con gran predilección por el blanco y negro como se puede observar en mi obra.
+                    A dia de hoy sigo aprendiendo y mejorando, intentando sacar lo mejor de mi.<br><br> Por circunstancias de la vida, actualmente me encuentro reciclandome a mi mismo, convirtiendome en un futuro programador y desarrollador web. Un mundo completamente diferente pero que cada 
+                    dia me engancha mas y mas.
+
+                </p>
+                
+            </div>
+
+            {{ block "footer" . }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+        {{ partial "javascript.html" . }}
+    </body>
+</html>

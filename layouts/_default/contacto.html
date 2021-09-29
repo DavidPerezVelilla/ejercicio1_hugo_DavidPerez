@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+    <style>
+        form { 
+            margin: 0 auto; 
+            width:250px;
+            text-align: center;
+            }
+            p {
+                text-align: center;
+            }
+            button{
+                margin: 0 auto;
+                width:250px;
+                text-align: center;
+            }
+    </style>        
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+
+    {{ block "body" . }}
+        <body>
+          
+    {{ end }}
+    
+        <div class="container">
+            {{ partial "header.html" . }}
+
+            <div class="content">
+                {{ block "main" . }}{{ .Content }}{{ end }}
+                
+            </div>
+
+            <p>Aquí podrás contactar conmigo</p>
+            <form action="https://formspree.io/f/xrgrjrqr" method="POST">
+                <label>
+                    Email:
+                    <input type="email" name="_replyto">
+                </label>
+                <label>
+                    Tu mensaje:
+                    <textarea name="message"></textarea>
+                </label>
+            <!-- your other form fields go here -->
+                <button type="submit">Enviar</button>
+            </form>
+
+            {{ block "footer" . }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+        {{ partial "javascript.html" . }}
+    </body>
+</html>

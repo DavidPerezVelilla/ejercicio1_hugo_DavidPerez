@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotografias on David Pérez Velilla</title>
+    <link>localhost/fotografias/</link>
+    <description>Recent content in Fotografias on David Pérez Velilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 27 Sep 2021 09:56:36 +0200</lastBuildDate>
+    
+	<atom:link href="localhost/fotografias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tunel</title>
+      <link>localhost/fotografias/tunel/</link>
+      <pubDate>Mon, 27 Sep 2021 09:56:36 +0200</pubDate>
+      
+      <guid>localhost/fotografias/tunel/</guid>
+      <description>Proyecto M.U.R.O. Arte Callejero en Roma</description>
+    </item>
+    
+  </channel>
+</rss>
