@@ -1,4 +1,4 @@
-baseURL = "https://localhost/ejercicio1_hugo_DavidPerez"
+baseURL = "https://dpvfotografia.com"
 title   = "David Pérez Velilla"
 languageCode = "es-Es"
 theme = "hello-friend-ng"
@@ -153,7 +153,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   #[params.portrait]
-   #path     = "/img/yo.png"
+  # path     = "/img/yo.png"
    #alt      = "Portrait"
    #maxWidth = "400px"
 
