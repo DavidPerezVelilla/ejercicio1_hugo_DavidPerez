@@ -1,4 +1,4 @@
-baseURL = "https://dpvfotografia.com/"
+baseURL = "http://localhost/MAÑANAS/hugo/proyectos/DavidPerezVelillaFotografia"
 title   = "David Pérez Velilla"
 languageCode = "es-Es"
 theme = "hello-friend-ng"
