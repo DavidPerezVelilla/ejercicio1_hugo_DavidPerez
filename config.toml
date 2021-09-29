@@ -1,4 +1,4 @@
-baseURL = "http://localhost/ejercicio1_hugo_DavidPerez"
+baseURL = "https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/"
 title   = "David Pérez Velilla"
 languageCode = "es-Es"
 theme = "hello-friend-ng"
