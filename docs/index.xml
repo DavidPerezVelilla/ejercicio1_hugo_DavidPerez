@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Pérez Velilla</title>
+    <link>https://dpvfotografia.com/</link>
+    <description>Recent content on David Pérez Velilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 28 Sep 2021 10:38:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://dpvfotografia.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>https://dpvfotografia.com/sobremi/</link>
+      <pubDate>Tue, 28 Sep 2021 10:38:08 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/sobremi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARTISTA CALLEJERO</title>
+      <link>https://dpvfotografia.com/galeria/9/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:24 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/9/</guid>
+      <description>Artista callejero en Florencia. Florencia</description>
+    </item>
+    
+    <item>
+      <title>PORTA MAGGIORE</title>
+      <link>https://dpvfotografia.com/galeria/8/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:21 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/8/</guid>
+      <description>Parada de cercanias de Porta Maggiore despues de una nevada. Roma</description>
+    </item>
+    
+    <item>
+      <title>RIO TIBER</title>
+      <link>https://dpvfotografia.com/galeria/7/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:18 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/7/</guid>
+      <description>San Pedro del Vaticano visto desde el Rio Tiber. Roma</description>
+    </item>
+    
+    <item>
+      <title>COLISEO</title>
+      <link>https://dpvfotografia.com/galeria/6/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:15 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/6/</guid>
+      <description>Coliseo. Roma</description>
+    </item>
+    
+    <item>
+      <title>SAN PEDRO DEL VATICANO</title>
+      <link>https://dpvfotografia.com/galeria/5/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:12 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/5/</guid>
+      <description>Turista fotografiando la cupula de San Pedro desde Sant&amp;rsquo;Angelo. Roma</description>
+    </item>
+    
+    <item>
+      <title>CALLEJON</title>
+      <link>https://dpvfotografia.com/galeria/4/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:09 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/4/</guid>
+      <description>Callejones de Napoles. Napoles</description>
+    </item>
+    
+    <item>
+      <title>VIA PRENESTINA</title>
+      <link>https://dpvfotografia.com/galeria/3/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:06 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/3/</guid>
+      <description>Tranvia por la via Prenestina. Roma</description>
+    </item>
+    
+    <item>
+      <title>ACROBATA</title>
+      <link>https://dpvfotografia.com/galeria/2/</link>
+      <pubDate>Tue, 28 Sep 2021 10:15:03 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/2/</guid>
+      <description>Escultura sobre el puente Bernatek. Cracovia</description>
+    </item>
+    
+    <item>
+      <title>MURO</title>
+      <link>https://dpvfotografia.com/galeria/1/</link>
+      <pubDate>Tue, 28 Sep 2021 10:14:59 +0200</pubDate>
+      
+      <guid>https://dpvfotografia.com/galeria/1/</guid>
+      <description>Proyecto M.U.R.O. Roma</description>
+    </item>
+    
+  </channel>
+</rss>
