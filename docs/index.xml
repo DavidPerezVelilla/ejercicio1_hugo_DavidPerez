@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-Es</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 28 Sep 2021 10:38:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 08:46:09 +0200</lastBuildDate>
     
 	<atom:link href="https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Buscar</title>
+      <link>https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/buscar/</link>
+      <pubDate>Mon, 04 Oct 2021 08:46:09 +0200</pubDate>
+      
+      <guid>https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/buscar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sobre mi</title>
@@ -91,15 +100,6 @@
       
       <guid>https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/galeria/2/</guid>
       <description>Escultura sobre el puente Bernatek. Cracovia</description>
-    </item>
-    
-    <item>
-      <title>MURO</title>
-      <link>https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/galeria/1/</link>
-      <pubDate>Tue, 28 Sep 2021 10:14:59 +0200</pubDate>
-      
-      <guid>https://davidperezvelilla.github.io/ejercicio1_hugo_DavidPerez/galeria/1/</guid>
-      <description>Proyecto M.U.R.O. Roma</description>
     </item>
     
   </channel>
