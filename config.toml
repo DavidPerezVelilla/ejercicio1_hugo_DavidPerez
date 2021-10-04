@@ -174,7 +174,8 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/DavidPerezVelilla"
 
- 
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
  
 [menu]
   [[menu.main]]
@@ -186,6 +187,11 @@ disableHugoGeneratorInject = false
     identifier = "Contacto"
     name       = "Contacto"
     url        = "/contacto"
+
+  [[menu.main]]
+    identifier = "Buscador"
+    name       = "Buscador"
+    url        = "/buscar"
 
   [[menu.main]]
     identifier = "Sobre mi"
