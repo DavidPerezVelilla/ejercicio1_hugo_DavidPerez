@@ -28,7 +28,7 @@ if(searchQuery){
 
 
 function executeSearch(searchQuery){
-  $.getJSON( "/index.json", function( data ) {
+  $.getJSON( "/ejercicio1_hugo_DavidPerez/index.json", function( data ) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
